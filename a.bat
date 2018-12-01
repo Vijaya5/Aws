@@ -1,3 +1,4 @@
 xcopy "C:\Program Files (x86)\Jenkins" "E:\Destination1"
-cd "C:\Program Files (x86)\Jenkins\workspace\CopyFiles"
+E:
+Cd Destination1
 CALL b.bat
